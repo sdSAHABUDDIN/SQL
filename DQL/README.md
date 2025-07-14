@@ -10,6 +10,16 @@ This repository contains various practice queries and explanations using the `DQ
 
 - Basic SELECT syntax  
 
+# RRETRIVE ALL CUSTOMER first name and country FROM CUSTOMER TABLE
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/select2.png)
+
+## 🧠 What You’ll Learn
+
+-  Pick only the columns you need instead of all.
+
 ## 🚀 How to Use
 
 1. Open your SQL IDE (MySQL Workbench, SQLite, pgAdmin, etc.)
