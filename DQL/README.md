@@ -20,6 +20,16 @@ This repository contains various practice queries and explanations using the `DQ
 
 -  Pick only the columns you need instead of all.
 
+# --RETRIVE CUSTOMERS WITH A SCORE > 500
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/where.png)
+
+## 🧠 What You’ll Learn
+
+-  Filters your data based on condition
+
 ## 🚀 How to Use
 
 1. Open your SQL IDE (MySQL Workbench, SQLite, pgAdmin, etc.)

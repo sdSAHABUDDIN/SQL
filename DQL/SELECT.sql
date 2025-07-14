@@ -5,3 +5,4 @@ FROM customers
 --RRETRIVE ALL CUSTOMER first name and country FROM CUSTOMER TABLE
 SELECT first_name, country
 FROM customers
+
