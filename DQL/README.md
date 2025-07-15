@@ -52,6 +52,26 @@ This repository contains various practice queries and explanations using the `DQ
 ## 🧠 What You’ll Learn
 -  Combines rows with the same value. 
 -  Aggregates a column by anothre column.
+
+# HAVING COMMAND
+## --Find the total score of each country where total_score must be greather than 800
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/having.png)
+
+## 🧠 What You’ll Learn
+-  Filter data after aggregation can be used only with GROUP BY 
+
+# Diff  b/w HAVING and WHERE
+## --Find the total score of each country where total_score must be greather than 800
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/diffWherenHaving.png)
+
+## 🧠 What You’ll Learn
+-  Filter data after aggregation can be used only with GROUP BY.
 ## 🚀 How to Use
 
 1. Open your SQL IDE (MySQL Workbench, SQLite, pgAdmin, etc.)
