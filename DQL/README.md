@@ -42,6 +42,16 @@ This repository contains various practice queries and explanations using the `DQ
 ## 🧠 What You’ll Learn
 -  Sort your data ascending or descending order 
 -  You can use nested ORDER also
+# GROUP BY COMMAND
+## --Find the total score of each country if you want to change output column name as total_score
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/groupby.png)
+
+## 🧠 What You’ll Learn
+-  Combines rows with the same value. 
+-  Aggregates a column by anothre column.
 ## 🚀 How to Use
 
 1. Open your SQL IDE (MySQL Workbench, SQLite, pgAdmin, etc.)
