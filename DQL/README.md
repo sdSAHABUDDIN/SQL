@@ -94,6 +94,17 @@ This repository contains various practice queries and explanations using the `DQ
 
 ## 🧠 What You’ll Learn
 -  Restict the number of rows returned
+
+# ALL COMMAND
+
+## --EXECUTE ORDER
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/allcommands.png)
+
+## 🧠 What You’ll Learn
+-  The correct order of execution of all commands
 ## 🚀 How to Use
 
 1. Open your SQL IDE (MySQL Workbench, SQLite, pgAdmin, etc.)
