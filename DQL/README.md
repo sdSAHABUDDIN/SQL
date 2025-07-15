@@ -72,6 +72,28 @@ This repository contains various practice queries and explanations using the `DQ
 
 ## 🧠 What You’ll Learn
 -  Filter data after aggregation can be used only with GROUP BY.
+
+# DISTINCT COMMAND
+
+## --Return unique list of all countries
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/distinct.png)
+
+## 🧠 What You’ll Learn
+-  Remove duplicates each value appears only once
+
+# TOP COMMAND
+
+## --RETRIVE ONLY 3 CUSTOMERS
+
+## 🖼️ Overview Image
+
+![SQL Select Preview](./assets/top.png)
+
+## 🧠 What You’ll Learn
+-  Restict the number of rows returned
 ## 🚀 How to Use
 
 1. Open your SQL IDE (MySQL Workbench, SQLite, pgAdmin, etc.)
