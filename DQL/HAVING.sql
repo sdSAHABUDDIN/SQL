@@ -4,7 +4,7 @@
 SELECT columnName1, SUM(columnName2)
 FROM TableName
 GROUP BY columnName1
-HAVING SUM(columnName2) condition
+HAVING SUM(columnName2) <condition>
 
 --Find the total score of each country where total_score must be greather than 800
 

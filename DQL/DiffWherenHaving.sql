@@ -4,9 +4,9 @@
 --syntax
 SELECT columnName1, SUM(columnName2)
 FROM TableName
-WHERE columnName2 condition
+WHERE columnName2 <condition>
 GROUP BY columnName1
-HAVING SUM(columnName2) condition
+HAVING SUM(columnName2) <condition>
 
 --find the avarage score for each country considering only customer with a score not equlto 0. And return only those countries with a avarage score greather than 430
 
